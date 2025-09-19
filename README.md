@@ -1,7 +1,7 @@
 
 
 # **Parallel Computing Impact on ML Models: A Comparative Analysis** 🚀
-
+ 
 This project provides a comprehensive comparative analysis of how parallel computing affects the performance of various machine learning models. We systematically benchmark a range of algorithms, from classical models like Logistic Regression and Random Forest to advanced gradient boosting frameworks like XGBoost and CatBoost. Additionally, we conduct a deep dive into the performance of a neural network, comparing its execution on a multi-core CPU against an NVIDIA Tesla T4 GPU.
 
 Our analysis focuses on key metrics such as training time, speedup, accuracy, and efficiency to provide data-driven insights for optimizing machine learning workflows on different hardware configurations.
