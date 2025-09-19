@@ -122,7 +122,7 @@ The analysis reveals a significant **performance gap** between the CPU and GPU i
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/parallel-computing-ml.git
+    git clone https://github.com/AIStrikerX/Parallel-Computing-Impact-on-ML-Models-A-Comparative-Analysis.git
     cd parallel-computing-ml
     ```
 2.  **Create and activate a virtual environment:**
